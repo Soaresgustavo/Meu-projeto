@@ -1,0 +1,43 @@
+header{
+	background-image: url(https://images5.alphacoders.com/321/thumb-1920-321139.jpg);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	width: 100%;
+}
+
+ul li a{
+	color: white;
+}
+
+.bg-h1{
+	background-color: rgba(209, 209, 209,0.3);
+}
+
+.btn-mover{
+	padding-bottom: 5%;
+}
+
+.move-h1{
+	margin-top: 30%;
+}
+
+.row-botao{
+	margin-top: 8%;
+}
+
+.texto-alinhado{
+	text-align: center;
+}
+
+.espaco-section{
+	padding-top: 4%;
+}
+
+.programacao{
+	background-color: #D3D3D3;
+}
+
+
+
+
+
